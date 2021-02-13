@@ -1,5 +1,8 @@
 # VSOUSA14 FIVEM DISCORD BOT
 
+Self coded FiveM Discord Bot
+
+
 ## HOW TO INSTALL
 
 ## DEPENDENCIES
