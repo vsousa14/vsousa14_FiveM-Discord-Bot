@@ -6,7 +6,7 @@ Self coded FiveM Discord Bot
 ## HOW TO INSTALL
 
 ### DEPENDENCIES
-   * nodejs
+   * ![NodeJS](https://nodejs.org/en/)
    * axios
    * fs
    * discord.js-pagination
