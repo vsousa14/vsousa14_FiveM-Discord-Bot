@@ -5,7 +5,7 @@ Self coded FiveM Discord Bot
 
 ## HOW TO INSTALL
 
-## DEPENDENCIES
+### DEPENDENCIES
    * nodejs
    * axios
    * fs
