@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "",
+    "SERVER_URL": "",
+    "SERVER_LOGO": "",
+    "SERVER_NAME": "",
+    "PREFIX": "",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"",
+        "MEMES":"",
+        "ANIMALS":""
+    }
+    
+}
