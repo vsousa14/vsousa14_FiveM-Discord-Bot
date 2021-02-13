@@ -26,7 +26,7 @@ Self coded FiveM Discord Bot
     
 ### SUPORT 
 
-    If you're having trouble setting up the launcher, feel free to join my discord server: https://discord.gg/GWZsjkJ
+    If you're having trouble setting up the bot, feel free to join my discord server: https://discord.gg/GWZsjkJ
     
     Setup video coming soon!
     
