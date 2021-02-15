@@ -2,7 +2,6 @@
 
 Self coded FiveM Discord Bot
 
-Demo video: https://www.youtube.com/watch?v=jBM9_PIxt7k&t
 
 ## HOW TO INSTALL
 
